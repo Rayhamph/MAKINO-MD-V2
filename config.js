@@ -11,15 +11,15 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
+global.autoTyping = true;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
+global.Owner = ["RAY_BABEL"];
+global.OwnerNumber = ["255694917477"];
+global.ownertag = ["BABEL"]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
